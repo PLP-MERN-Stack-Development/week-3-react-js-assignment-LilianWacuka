@@ -13,6 +13,8 @@ You will:
 5. Style your application using Tailwind CSS
 
 # PLP Task Manager
+# live project: 
+https://week-3-react-js-assignment-lilianwacuka-jdib.onrender.com/
 
 A modern task management web application built with **React**, **Vite**, and **Tailwind CSS** as part of the Power Learn Project (PLP) Week 3 assignment.
 
